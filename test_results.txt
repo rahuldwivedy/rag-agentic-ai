@@ -1,0 +1,25 @@
+
+Q: What is Agentic AI according to the eBook?
+A: According to the eBook, Agentic AI is a system that goes beyond other AI by acting autonomously to achieve goals. It is impact-focused, proactive, and adaptive, characterized by its ability to learn continuously, focus on goals, act independently, anticipate needs, adapt to change, and align with goals.
+Confidence: 0.785
+Chunks retrieved: 4
+
+Q: How do AI agents differ from traditional automation systems?
+A: AI agents differ from traditional automation systems in that they are goal-driven systems capable of performing actions autonomously in a dynamic environment, whereas traditional automation systems (such as RPA) excel at repetitive, rule-based tasks with structured data by executing predefined rules and logic.
+Confidence: 0.748
+Chunks retrieved: 4
+
+Q: What are the core components of an Agentic Architecture?
+A: The core components of an Agentic Architecture are: Perception, Reasoning, Planning, Learning, and Execution.
+Confidence: 0.778
+Chunks retrieved: 4
+
+Q: What role does memory play in Agentic AI workflows?
+A: Memory allows an agent to store long-term information about past interactions and successful methods for completing tasks, which helps reduce the computing required for new tasks by referencing relevant past plans and actions. It also serves as a place to store human demonstrations, which can expedite progress without requiring as rigorous a planning and reasoning loop. Additionally, short-term memory, consisting of current context from prompts and available information, allows the agent to address immediate concerns effectively.
+Confidence: 0.758
+Chunks retrieved: 4
+
+Q: Who won the 2022 FIFA World Cup?
+A: I cannot answer based on the provided document.
+Confidence: 0.0
+Chunks retrieved: 4
